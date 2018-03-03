@@ -18,6 +18,6 @@
     "@types/node": "^9.4.6",
     "@types/react": "^16.0.40",
     "@types/react-dom": "^16.0.4",
-    "typescript": "^2.7.2"
+    "typescript": "^2.8.0-dev.20180302"
   }
 }
